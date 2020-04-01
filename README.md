@@ -1,0 +1,2 @@
+# Sikanoppapeli
+Sikaa voit pelata kahdella nopalla, jolloin säännöt muuttuvat hieman: Kun heität tuplat, saat tuplapisteet (esim. kaksi kolmosta on 12 pisteen arvoinen heitto) Kun heität kaksi ykköstä, saat 25 pistettä Kun heität vain toisella nopalla ykkösen, vuoro siirtyy seuraavalle pelaajalle etkä saa pisteitä Kun heität kolme tuplaa peräkkäin, vuoro siirtyy seuraavalle pelaajalle etkä saa pisteitä Sika ei siis ole tämän monimutkaisempi noppapeli. Se on nopeatempoinen peli, jonka parissa aika kuluu rattoisasti
